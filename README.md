@@ -6,15 +6,15 @@ The schemas use [JSON Schema Draft 2020-12](https://json-schema.org/draft/2020-1
 
 ## Schemas
 
-| File | Describes |
-| --- | --- |
-| `project.schema.json` | Epicollect5 project exports |
-| `entry-payload.schema.json` | Entry upload payloads |
-| `branch-entry-payload.schema.json` | Branch entry upload payloads |
-| `file-entry-payload.schema.json` | JSON data carried with file uploads |
-| `delete-entry-payload.schema.json` | Single-entry deletion payloads |
-| `entry-data.schema.json` | Normalized entry data stored by the platform |
-| `geo-json-data.schema.json` | GeoJSON location data stored by the platform |
+| File                               | Describes                                    |
+|------------------------------------|----------------------------------------------|
+| `project.schema.json`              | Epicollect5 project definition and mapping   |
+| `entry-payload.schema.json`        | Entry upload payloads                        |
+| `branch-entry-payload.schema.json` | Branch entry upload payloads                 |
+| `file-entry-payload.schema.json`   | JSON data carried with file uploads          |
+| `delete-entry-payload.schema.json` | Single-entry deletion payloads               |
+| `entry-data.schema.json`           | Normalized entry data stored by the platform |
+| `geo-json-data.schema.json`        | GeoJSON location data stored by the platform |
 
 ## Versioning
 
